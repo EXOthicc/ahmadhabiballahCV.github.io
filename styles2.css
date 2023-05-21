@@ -1,6 +1,38 @@
 .24_15 { 
 	overflow:hidden;
 }
+
+.b24_4 { 
+	background-color:rgba(144.00000661611557, 144.00000661611557, 163.00000548362732, 0.1);
+	width:88px;
+	height:88px;
+	position:absolute;
+	left:100px;
+	top:666px;
+	border-radius: 50%;
+	border: 0px;
+	transition-duration: 0.4s;
+}
+
+.b24_4:hover{
+	background-color:rgba(144.00000661611557, 144.00000661611557, 163.00000548362732, 0.5);
+	cursor:pointer;
+}
+
+.b24_3 { 
+	width:1px;
+	height:0px;
+	position:absolute;
+	left:12px;
+	top:-3px;
+	font-size: 64px;
+	color: rgb(209, 215, 224);
+	text-decoration: none;
+	border: 0px
+}
+
+
+
 .e24_15 { 
 	background-color:rgba(45.00000111758709, 40.00000141561031, 62.00000010430813, 1);
 	width:1440px;
@@ -16,8 +48,21 @@
 	left:1276.086669921875px;
 	top:-2811px;
 }
-.e24_16 { 
-	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+.e24_16o { 
+	background-image: url(images/tpis2.PNG);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:560px;
+	height:420px;
+	position:absolute;
+	left:786px;
+	top:200px;
+	border-radius: 10px;
+}
+.e24_16l { 
+	background-image: url(images/tpis2.PNG);
+	background-repeat: no-repeat;
+	background-size: cover;
 	width:560px;
 	height:420px;
 	position:absolute;
