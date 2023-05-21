@@ -60,7 +60,7 @@
 	border-radius: 10px;
 }
 .e24_16l { 
-	background-image: url(images/tpis2.PNG);
+	background-image: url(images/ksap.PNG);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width:560px;
@@ -68,6 +68,7 @@
 	position:absolute;
 	left:786px;
 	top:200px;
+	border-radius: 10px;
 }
 .e24_23 { 
 	width:232px;
@@ -98,7 +99,6 @@
 }
 .e24_17 { 
 	color:rgba(209.00000274181366, 215.0000023841858, 224.000001847744, 1);
-	width:458px;
 	height:75px;
 	position:absolute;
 	left:490px;
